@@ -2,7 +2,7 @@
 
 This is a disassembler and simulator I created based on ARMv8 architecture.
 
-################# How to run #################
+How to run:
 
     $python disassembler.py -i inputfile.txt -o outputname 
 
@@ -14,7 +14,7 @@ outputname_dis.txt , which contains the disassebled program.
 outputname_sim.txt , which containes the simulator for 
 
 
-######################## Things to look out for #####################
+Things to look out for:
 
 You can run your own inputfile, however keep these in mind:
 

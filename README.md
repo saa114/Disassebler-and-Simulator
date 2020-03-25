@@ -11,7 +11,7 @@ outputname is any name you wish your output file to be called.
 
 After running, 2 files will be generated:
 outputname_dis.txt , which contains the disassebled program.
-outputname_sim.txt , which containes the simulator for 
+outputname_sim.txt , which is the simulator. 
 
 
 Things to look out for:
